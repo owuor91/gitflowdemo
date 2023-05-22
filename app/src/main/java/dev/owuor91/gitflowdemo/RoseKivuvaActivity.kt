@@ -8,6 +8,11 @@ class RoseKivuvaActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_rose_kivuva)
         setContentView(R.layout.activity_rose_kivuva)
+        setContentView(R.layout.activity_rose_kivuva)
+        setContentView(R.layout.activity_rose_kivuva)
+        setContentView(R.layout.activity_rose_kivuva)
+
+
 
     }
 }
