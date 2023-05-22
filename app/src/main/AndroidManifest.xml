@@ -12,11 +12,20 @@
         android:theme="@style/Theme.GitFlowDemo"
         tools:targetApi="31">
         <activity
+
+            android:name=".Faith_Gisemba"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+
             android:name=".Marion_Njeri"
             android:exported="false" />
         <activity
             android:name=".AdalabDemoActivity"
             android:exported="false" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
