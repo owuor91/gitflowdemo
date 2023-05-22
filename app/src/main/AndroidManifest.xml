@@ -12,7 +12,7 @@
         android:theme="@style/Theme.GitFlowDemo"
         tools:targetApi="31">
         <activity
-            android:name=".Marion_Njeri"
+            android:name=".Florence"
             android:exported="false" />
         <activity
             android:name=".AdalabDemoActivity"
